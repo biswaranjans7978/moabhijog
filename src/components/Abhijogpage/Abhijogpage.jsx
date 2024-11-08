@@ -22,7 +22,7 @@ function Abhijogpage() {
       </div>
       <div className=" flex justify-center">
       <Link to="/thanks">
-        <div className="  bg-zinc-500 w-20   text-white hover:bg-green-600 text-center p-3 border rounded-md mt-14 lg:mt-0">
+        <div className="  bg-zinc-500 w-20   text-white hover:bg-green-600 text-center p-3 border rounded-md mt-14 mb-2 lg:mt-0 ">
           Submit
         </div>
       </Link>
