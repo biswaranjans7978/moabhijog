@@ -12,7 +12,7 @@ function Banner() {
    <div className=' absolute top-20'>
    <BannerImage />
    </div>
-   <Link to="/abhijogpage"><h3 className=" hover:bg-green-700 hover:text-white p-2 pr-10 bg-gray-200 border rounded absolute pt-6 lg:pt-4 text-xl top-96 left-10 lg:bg-slate-50 text-l lg:top-96 lg:m-8 lg:left-20">ଆପଣଙ୍କ ଅଭିଯୋଗ ଦାଖଲ କରନ୍ତୁ <FaArrowRight className=' absolute bottom-3 left-64'/></h3></Link>
+   <Link to="/abhijogpage"><h3 className=" hover:bg-green-700 hover:text-white p-2 pr-10 bg-gray-200 border rounded absolute pt-6 pb-4 lg:pt-4 text-xl top-96 left-10 lg:bg-slate-50 text-l lg:top-96 lg:m-8 lg:left-20">ଆପଣଙ୍କ ଅଭିଯୋଗ ଦାଖଲ କରନ୍ତୁ <FaArrowRight className=' absolute bottom-3 left-64'/></h3></Link>
     </>
   )
 }
