@@ -14,7 +14,7 @@ function Abhijogpage() {
           <h1>ଏହିଠାରେ ଆପଣଙ୍କ ଅଭିଯୋଗ ଲେଖନ୍ତୁ</h1>
           <textarea className=" w-72" name="" id=""></textarea>
         </div>
-        <div className="">କିମ୍ବା</div>
+        <div className=" text-lg">କିମ୍ବା</div>
 
         <div className=" bg-red-200 pb-4">
           <ImageUploader />
